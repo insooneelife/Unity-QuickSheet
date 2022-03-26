@@ -44,3 +44,4 @@ report.xml
 /Data/**
 /Assets/Temp/**
 /Assets/Temp.meta
+/Logs/**
